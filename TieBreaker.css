@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to right, #bfdbfe, #d8b4fe);
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 28px;
+    margin-left: 15px;
+}
+
+h2 {
+    font-size: 23px;
+    margin-left: 15px;
+}
+
+/* Apply styles to the image */
+img {
+    margin-left: 25%;
+    height: 40%;
+    width: 40%;
+}

@@ -1,1 +1,1 @@
-# Technotsav-Project
+# CSIT-Technotsav
